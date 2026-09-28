@@ -34,7 +34,7 @@
     "lodash": "^4.18.1",
     "prettier": "^3.9.9",
     "terser": "^5.51.2",
-    "ts-jest": "^29.4.13",
+    "ts-jest": "^29.4.14",
     "type-fest": "^5.10.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.70.1",
