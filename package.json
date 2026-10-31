@@ -26,7 +26,7 @@
     "@types/node": "^25.9.9",
     "@types/toastr": "^2.1.44",
     "compare-versions": "^6.1.1",
-    "eslint": "^10.13.0",
+    "eslint": "^10.14.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.7",
     "jest": "^30.5.2",
